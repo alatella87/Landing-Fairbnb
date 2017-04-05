@@ -3,6 +3,10 @@
 Fairbnb Landing Page (please update changes made here)  
 LATEST CHANGE : 24/03/2017
 
+## Running your changes locally
+
+Just download the repo (green button here on the upper-right) and run index.html! That simple!
+
 ## Assets folders
 
 The assets folders contains all the Mobirise templating engine elements (bootstrap, formoid, smooth-scroll, tether, etc.). It shouldn't be necessary deleting/modifying the majority of these files. 
