@@ -1,6 +1,6 @@
 # Fairbnb Landing Page
 
-Fairbnb Landing Page (please update changes made here)
+Fairbnb Landing Page (please update changes made here)  
 LATEST CHANGE : 24/03/2017
 
 # Assets folders
