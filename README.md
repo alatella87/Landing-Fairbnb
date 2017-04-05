@@ -17,7 +17,8 @@ The Landing page can be changed in the index.html file. As the subscription reli
 
 ### Manifesto 
 
-The current Manifesto (old version) is hosted on the main server (/fairManif.pdf) 	
+The current Manifesto (old version) is hosted on the main server (/fairManif.pdf)  
+The latest Manifesto (4.4.17) is present here to upload when agreed by members on Loomio (https://www.loomio.org/d/27Hk6PVW/proposal/XYPwjxcF)	
 
 
 
