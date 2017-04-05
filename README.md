@@ -11,11 +11,11 @@ The assets folders contains all the Mobirise templating engine elements (bootstr
 
 New sections can be be added, and existing sections can be modified using the main css stylesheet under assets>theme>css>style.css.
 
-## Formoid (formoid.net)
+###### Formoid (formoid.net)
 
 The Landing page can be changed in the index.html file. As the subscription relies on a formoid.net plugin that is embedded within the Mobirise templating engine, it is recommended to leave unchanged the lines 71-103 starting with <section class="mbr-section"...>
 
-### Manifesto 
+###### Manifesto 
 
 The current Manifesto (old version) is hosted on the main server (/fairManif.pdf)  
 The latest Manifesto (4.4.17) is present here to upload when agreed by members on Loomio (https://www.loomio.org/d/27Hk6PVW/proposal/XYPwjxcF)	
